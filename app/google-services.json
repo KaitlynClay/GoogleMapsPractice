@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342603892129",
+    "project_id": "mapspractice-f4aa2",
+    "storage_bucket": "mapspractice-f4aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342603892129:android:774c3659fbf932255177e0",
+        "android_client_info": {
+          "package_name": "com.android.example.googlemapspractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLXJqozReNfefxogWu4il1HJ3ASmxVIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
